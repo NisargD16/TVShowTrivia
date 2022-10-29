@@ -1,0 +1,65 @@
+/Users/nisarg/PycharmProjects/assignment1/venv/bin/python /Users/nisarg/PycharmProjects/assignment1/assignment.py
+-------------------------------
+What is the name of the paper company that they work at in the show?: 
+A. Dundie Miffler
+B. Dunder Miffler
+C. Dander Muffin
+D. Dunder Mifflin
+Enter 'A', 'B', 'C' or 'D': D
+ 
+ THAT IS CORRECT! Well done! 
+
+Who is the Scranton regional manager in the beginning of the show?: 
+A. Jim Halpert
+B. Micheal Scott
+C. Dwight Schrute
+D. It was still to be decided
+Enter 'A', 'B', 'C' or 'D': b
+ 
+ THAT IS CORRECT! Well done! 
+
+Who is Pam engaged with in the beginning of the show?: 
+A. Jim
+B. Chris
+C. Roy
+D. She is not engaged to anyone
+Enter 'A', 'B', 'C' or 'D': c
+ 
+ THAT IS CORRECT! Well done! 
+
+Where do Jim and Pam get married?: 
+A. Niagara Falls
+B. Las Vegas
+C. Schrute Farms
+D. A banquet hall in Scranton
+Enter 'A', 'B', 'C' or 'D': B
+ 
+ THAT IS INCORRECT! Nice try! 
+
+What is the name of Angela's cat that Dwight kills?: 
+A. Princess Lady
+B. Sprinkles
+C. Garbage
+D. Bandit
+Enter 'A', 'B', 'C' or 'D': B
+ 
+ THAT IS CORRECT! Well done! 
+
+Which character does Micheal hate the most?: 
+A. Ryan
+B. Kelly
+C. Toby
+D. Creed
+Enter 'A', 'B', 'C' or 'D': D
+ 
+ THAT IS INCORRECT! Nice try! 
+
+You got 4/6 correct
+Your score is: 66%
+Great attempt! If you didn't do too well, you have the option to play again. 
+
+Would you like to attempt this quiz again? (Give a 'yes' or 'no' answer): No
+
+Thank you for playing!
+
+Process finished with exit code 0
